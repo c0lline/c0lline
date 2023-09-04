@@ -1,14 +1,15 @@
-# Sup! Sou a Nicolle Nascimento 
+# Hey! Sou a Nicolle Nascimento 
 
 <br>
 
-<center>
-<div style="text-align:center">
+
+<div>
   <a href="https://github.com/c0lline">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=c0lline&show_icons=true&theme=tokyonight" hspace="5">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0lline&layout=compact&langs_count=16&theme=tokyonight">
+  </a>
 </div>
-</center>
+
 
 ##
 
