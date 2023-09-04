@@ -2,9 +2,9 @@
 
 <br>
 
-<div>
+<div style="text-align:center">
   <a href="https://github.com/c0lline">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c0lline&show_icons=true&theme=tokyonight" hspace="5">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=c0lline&show_icons=true&theme=tokyonight" hspace="5">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0lline&layout=compact&langs_count=16&theme=tokyonight">
 </div>
 
@@ -26,7 +26,8 @@
 ### Contato
 
 <div style="">
-  <a href="mailto:nicollelnasci@gmail.com"><img href="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" wight="50" left="50"></a>
+  <a href="mailto:nicollelnasci@gmail.com"><img href="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="80"></a>
+  <a href="www.linkedin.com/in/nicolle-nascimento-16a9b4260"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100"></a>
 </div>
 
 
