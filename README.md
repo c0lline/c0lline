@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/c0lline">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c0lline&show_icons=true&theme=tokyonight" hspace="20" align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=c0lline&show_icons=true&theme=tokyonight" align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0lline&layout=compact&langs_count=16&theme=tokyonight" align="center">
 </div>
 
