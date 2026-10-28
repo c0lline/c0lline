@@ -28,7 +28,7 @@
 
 <div style="">
   <a href="mailto:nicollelnasci@gmail.com"><img href="" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="80"></a>
-  <a href="https://www.linkedin.com/in/nicolle-nascimento-16a9b4260/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="100"></a>
+  <a href="https://www.linkedin.com/in/nicolle-nascimento-16a9b4260/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80"></a>
 </div>
 
 
